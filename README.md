@@ -14,13 +14,13 @@
 # Version Different
 
 ## 330/ - Mastodon v3.3.x
-- [330](https://github.com/InstanceTicker/InstanceTicker/tree/master/330)
+- [330](https://github.com/InstanceTicker/InstanceTicker/wiki/mod#mod330)
 
 ## 402/ - Mastodon v4.0.x
-- [402](https://github.com/InstanceTicker/InstanceTicker/tree/master/402)
+- [402](https://github.com/InstanceTicker/InstanceTicker/wiki/mod#mod402)
 
 ## 430/ - Mastodon v4.3.x
-- [430](https://github.com/InstanceTicker/InstanceTicker/tree/master/430)
+- [430](https://github.com/InstanceTicker/InstanceTicker/wiki/mod#mod430)
 
 ---
 
